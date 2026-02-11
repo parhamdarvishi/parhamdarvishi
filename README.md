@@ -1,4 +1,4 @@
-# Hi 👋 I'm [Your Name]
+# Hi 👋 I'm Parham
 
 🚀 Full stack Developer | .NET / C# / Golang | Angular | APIs | Databases (SQL Server / PostgreSQL) | RabbitMQ | Redis | Docker | Azure Devops.  
 
