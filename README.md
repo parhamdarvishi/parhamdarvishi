@@ -14,4 +14,4 @@ I’m passionate about building scalable backend systems and solving real-world 
 ---
 
 📫 Reach me at: **darvishiparham14@email.com**  
-💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/parham-darvishi/)
+💼 LinkedIn: [Parham Darvishi](https://www.linkedin.com/in/parham-darvishi/)
